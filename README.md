@@ -4,6 +4,8 @@ N741_Spring2024_week2
 
 MELINDA IS AWESOME!
 
+really awesome
+
 
 
 ## Slides for Today
