@@ -4,6 +4,7 @@ N741_Spring2024_week2
 
 ## Slides for Today
 
+* [Intro to R Code](https://melindahiggins2000.github.io/RWorkshops_HJFGlobal_AugSept2023/HJF_Rworkshop_08242023_pt1.html#21)
 * [Intro to `ggplot2`](https://melindahiggins2000.github.io/RWorkshops_HJFGlobal_AugSept2023/HJF_Rworkshop_08242023_pt3.html#1)
 * [PPT Slides on ggarrange](https://raw.githubusercontent.com/melindahiggins2000/N741_Spring2024_week2/main/ggarrange_slides.pptx)
 
